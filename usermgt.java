@@ -2,4 +2,4 @@ landmark
 dominion
 obi 
 amaka
-manny
+lisa
