@@ -1,6 +1,7 @@
 landmark
-dominion
 obi 
-amaka
+Khady
+Anite
+Maria
 lisa
 manny
