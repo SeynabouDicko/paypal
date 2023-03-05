@@ -5,10 +5,8 @@ Nodejs applications
 python applications
 
 
-Great
-<<<<<<< HEAD
+eat
 good job
-
-
+having trouble
 having trouble
 
